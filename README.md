@@ -4,8 +4,7 @@
 ### Role: Data Analyst
 ### Project Status: Completed
 
-![Dashboard Preview]<img width="1664" height="709" alt="Screenshot 2026-09-04 121438" src="https://github.com/user-attachments/assets/cba87749-fc7e-4109-9c69-a54c5e05406b" />
-)
+### Dashboard Preview<img width="1664" height="709" alt="Screenshot 2026-09-04 121438" src="https://github.com/user-attachments/assets/cba87749-fc7e-4109-9c69-a54c5e05406b" />
 
 ## 📌 Executive Summary
 An end-to-end financial analytics project evaluating company performance across **25,000+ transactions**. This dashboard provides leadership with real-time visibility into revenue streams, departmental cost structures, monthly profitability trends, and budget thresholds.
