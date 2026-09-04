@@ -4,6 +4,9 @@
 ### Role: Data Analyst
 ### Project Status: Completed
 
+# Project Overview
+This project transforms raw transactional data into a dynamic, self-service financial dashboard utilizing Advanced Excel and Power Pivot. The objective is to provide executive leadership with immediate visibility into cash flow, departmental spending, and operational bottlenecks without requiring manual data reconciliation.
+
 ### Dashboard Preview 
 
 <img width="1664" height="709" alt="Screenshot 2026-09-04 121438" src="https://github.com/user-attachments/assets/cba87749-fc7e-4109-9c69-a54c5e05406b" />
